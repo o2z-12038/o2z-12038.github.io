@@ -1,4 +1,5 @@
 <html>
+    <link rel="stylesheet" type="text/css" href="https://o2z-12038.github.io/style2.css">  
     <body>
         <h1>Planet Gallery</h1>
         <img src = https://upload.wikimedia.org/wikipedia/commons/4/4a/Mercury_in_true_color.jpg width=300>
